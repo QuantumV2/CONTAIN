@@ -49,6 +49,8 @@ Next container in this case refers to the container that you end up on after BP 
 
 / - Divide (deletes container if divide by zero)
 
+% - Modulo (also deletes)
+
 = - Set current = next
 
 @ - Swap current and next
